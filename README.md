@@ -1,6 +1,8 @@
 # file_renamer
 small project for friend to rename files
 
+Start by navigating to Miniconda https://conda.io/miniconda.html and downloading the 64 bit windows installer. Go ahead and install once downloaded.
+
 ![Download Miniconda and Install](images/download_miniconda.PNG)
 
 ============
